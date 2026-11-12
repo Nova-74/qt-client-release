@@ -1,5 +1,9 @@
-# Client downloads
+# Evora client downloads
 
-Download the latest launcher starter ZIP from Releases, extract it into a writable folder, and run research-launcher.exe. Choose Install to download the complete client.
+This repository distributes compiled Windows client updates only. The client source code is private.
 
-Source and build instructions: https://github.com/Nova-74/qt-client
+Download **Evora Launcher.exe** from the latest Release. Run it, click **Download** to install the game, then **Play**. The game and updates are stored under your Local AppData/Evora folder.
+
+The launcher updates itself and the client. When a verified update is available, the main button becomes **Update**.
+
+GitHub's automatic “Source code” archives contain only this downloads repository's documentation, not the client source.
